@@ -20,4 +20,3 @@ def write_to_db(url, title, price, description, city):
         print('data recorded!')
     except Exception as ex:
         print(ex)
-
